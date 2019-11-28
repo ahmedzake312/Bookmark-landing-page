@@ -455,6 +455,11 @@ footer .footer-logo {
     width: 90%;
     padding-right: 30px;
   }
+  
+
+.features-grid div{
+  width:90%;
+  }
 
   .text-box p {
     font-size: 13px;
